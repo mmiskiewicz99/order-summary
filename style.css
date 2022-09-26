@@ -126,7 +126,7 @@ body{
         
     }
     body{
-        background-image: url(../images/pattern-background-desktop.svg);
+        background-image: url(./images/pattern-background-desktop.svg);
         transition: all ease-in 0.2s;
     }
     .annual_plan{
