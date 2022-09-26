@@ -5,7 +5,7 @@ body{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-image: url(../images/pattern-background-mobile.svg);
+    background-image: url(https://github.com/mmiskiewicz99/order-summary/blob/main/images/pattern-background-mobile.svg);
     background-repeat: no-repeat;
     background-size:100% 30%;
     background-color: hsl(225, 100%, 94%);
